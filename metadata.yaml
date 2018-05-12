@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40787'
     url: http://www.gutenberg.org/2009/agents/40787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46122#The-Story-of-the-Pullman-Car
 gutenberg_issued: '2014-06-28'
 gutenberg_type: Text
 identifiers:
