@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-Pullman-Car_46122
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46122-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Husband, Joseph
+    birthdate: 1885
+    deathdate: 1938
+    gutenberg_agent_id: '40787'
+    url: http://www.gutenberg.org/2009/agents/40787
+description: ''
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46122'
+  lccn: '17015079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pullman Company'
+- !lcc 'TF'
+- !lcsh 'Pullman cars'
+title: The Story of the Pullman Car
+url: http://www.gutenberg.org/ebooks/46122
